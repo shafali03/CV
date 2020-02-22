@@ -1,5 +1,10 @@
 # <center> Shafique Mohammed </center> 
 
+## Skills
+
+Attention to details
+
+During my extensive career within the pharmaceutical industry, I have developed a strong attention to detail. For example, as a pharmacy accredited technician, I completed a course at Royal Berkshire Hospital, checking 1000 medicines without errors. Once I completed the course, I was able to conduct the final checks to verify the prescription is dispensed correctly. I believe this is a focal skill that is necessary as a software engineer to help identify errors and provide a solution to fix the bug.
 
 ## Projects
 
