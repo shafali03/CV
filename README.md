@@ -1,12 +1,20 @@
 # <center> Shafique Mohammed </center> 
 
 
+## Projects
+
+| Projects       | Description    | Timeframe|Technology  |Test Suites, CI/CD |
+| :-------------: | :-------------: | :-----:| :------------------: | :-------------------:|
+| [Acebook](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A user can sign up and post a message each other walls    |2 weeks| Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
+| [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
+| [Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)      | Created a shopping cart add products, increase and decrease the quantity of the product once products added to the shopping cart      |  2 weeks  | HTML, CSS, JavaScript, JSON, Netlify and Contentful
+
 
 
 
 ## *Education*
 
-#### Makers Academy (Oct 2019 to Feb 2020)
+#### *Makers Academy (Oct 2019 to Feb 2020)*
 
 Study at Makers bootcamp for 16 weeks
 
@@ -15,6 +23,7 @@ Study at Makers bootcamp for 16 weeks
 * Ruby, RSpec, Rails
 * JavaScript, Jasmine, React
 * PostgreSQL
+* Agile
 
 ****
 #### *Royal Berkshire Hospital*
