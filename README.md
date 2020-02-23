@@ -1,5 +1,10 @@
 # <center> Shafique Mohammed </center> 
 
+I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer as healthcare was lacking from these technologies. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
+
+Overall, I am passionate about embarking on a career in the IT industry and would like to pursue my passion as a software engineer. I am continually learning new skills and updating my portfolio. It helps to
+demonstrate my enthusiasm and passion for web development, and I am eager to build the foundations for a lifelong career as a software engineer. 
+
 ## Skills
 
 ### Attention to details
@@ -12,9 +17,6 @@ During my extensive career within the pharmaceutical industry, I have developed 
 While working at the hospital, I worked well as a team and supporting my colleagues whenever they needed help. When working as a team increase our productivity, we were able to accomplish our task sooner
 and also reduce mistakes. Whenever I worked in groups, I always give other team members a chance to talk and show respect for what others have to say, so everyone feels comfortable.
 
-### Communication 
-
-I 
 
 ## Projects
 
@@ -73,7 +75,7 @@ Study at Makers bootcamp for 16 weeks
 * Investigate stock discrepancies.
 * Answer queries from ward staff.
 * Cost saving on drugs returned from wards.
-* Working with senior management to prioritise business needs.
+* Working with senior management to priorities business needs.
 * Implementing ideas with the approval of management to reduce workload and improve services.
 * Communicate with Clinicians regarding medications stock and MHRA alerts.
 *	Dispense Controlled Drugs and keeping accurate records
