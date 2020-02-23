@@ -8,7 +8,6 @@
  
  [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id)
 
-
 </div>
 
 
@@ -18,8 +17,8 @@ I'm a full-stack developer who recently graduated from Makers. My background pha
 Overall, I am passionate about embarking on a career in the IT industry and would like to pursue my passion as a software engineer. I am continually learning new skills and updating my portfolio. It helps to
 demonstrate my enthusiasm and passion for web development, and I am eager to build the foundations for a lifelong career as a software engineer. 
 
-## Skills
 <a name="skill-id"></a>
+## Skills
 
 ### Attention to details
 
@@ -31,9 +30,9 @@ During my extensive career within the pharmaceutical industry, I have developed 
 While working at the hospital, I worked well as a team and supporting my colleagues whenever they needed help. When working as a team increase our productivity, we were able to accomplish our task sooner
 and also reduce mistakes. Whenever I worked in groups, I always give other team members a chance to talk and show respect for what others have to say, so everyone feels comfortable.
 
-
-## Projects
 <a name="project-id"></a>
+## Projects
+
 
 
 
@@ -43,11 +42,10 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 | [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
 | [Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)      | Created a shopping cart add products, increase and decrease the quantity of the product once products added to the shopping cart      |  2 weeks  | HTML, CSS, JavaScript, JSON, Netlify and Contentful
 
-[Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)
+[Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/)
 
-
-## Education
 <a name="education-id"></a>
+## Education
 
 
 
@@ -70,9 +68,8 @@ Study at Makers bootcamp for 16 weeks
  *2005 to 2007* - Pharmaceutical Science BTEC Level 3 Diploma in Pharmaceutical Science Apprenticeship
 
 
-
-## Experience
 <a name="experience-id"></a>
+## Experience
 
 
 **Thara Accountants** (February - 2018 – April 2018)    
