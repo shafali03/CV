@@ -3,12 +3,16 @@
   <h1>Shafique Mohammed</h1>
 </div>
 
+****
+
 I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer as healthcare was lacking from these technologies. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
 
 Overall, I am passionate about embarking on a career in the IT industry and would like to pursue my passion as a software engineer. I am continually learning new skills and updating my portfolio. It helps to
 demonstrate my enthusiasm and passion for web development, and I am eager to build the foundations for a lifelong career as a software engineer. 
 
 ## Skills
+****
+
 
 ### Attention to details
 
@@ -22,6 +26,8 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 
 
 ## Projects
+****
+
 
 | Projects       | Description    | Timeframe|Technology  |Test Suites, CI/CD |
 | :-------------: | :-------------: | :-----:| :------------------: | :-------------------:|
@@ -33,6 +39,8 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 
 
 ## *Education*
+****
+
 
 #### *Makers Academy (Oct 2019 to Feb 2020)*
 
@@ -48,7 +56,7 @@ Study at Makers bootcamp for 16 weeks
 ****
 #### *Royal Berkshire Hospital*
 *2015 to 2016*  -    Accredited Checking Technician
-****
+
 #### *Lansdales Pharmacy*
  *2005 to 2007* - Pharmaceutical Science BTEC Level 3 Diploma in Pharmaceutical Science Apprenticeship
 ****
