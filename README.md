@@ -1,4 +1,7 @@
-# <center> Shafique Mohammed </center> 
+
+<div align="center">
+  <h1>Shafique Mohammed</h1>
+</div>
 
 I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer as healthcare was lacking from these technologies. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
 
