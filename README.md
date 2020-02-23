@@ -1,8 +1,17 @@
 
 <div align="center">
   <h1>Shafique Mohammed</h1>
+
 </div>
 
+<div align="center">
+ 
+
+# <a name="some-id"></a> DETAIL SECTION
+
+</div>
+
+ [Skills](#skill-id) | [Projects](#project-id) | [Education](#education-id)| [Experience](#experience-id)
 
 
 I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer as healthcare was lacking from these technologies. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
@@ -11,8 +20,7 @@ Overall, I am passionate about embarking on a career in the IT industry and woul
 demonstrate my enthusiasm and passion for web development, and I am eager to build the foundations for a lifelong career as a software engineer. 
 
 ## Skills
-
-
+<a name="skill-id"></a>
 
 ### Attention to details
 
@@ -26,6 +34,7 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 
 
 ## Projects
+<a name="project-id"></a>
 
 
 
@@ -38,7 +47,8 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 
 
 
-## *Education*
+## Education
+<a name="education-id"></a>
 
 
 
@@ -62,7 +72,9 @@ Study at Makers bootcamp for 16 weeks
 
 
 
-## *Experience*
+## Experience
+<a name="experience-id"></a>
+
 
 **Thara Accountants** (February - 2018 – April 2018)    
 *Front End developer	(Contract part-time)*  
