@@ -6,7 +6,7 @@
 
 <div align="center">
  
- [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id)
+ [Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/) | [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id)
 
 </div>
 
@@ -42,7 +42,7 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 | [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
 | [Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)      | Created a shopping cart add products, increase and decrease the quantity of the product once products added to the shopping cart      |  2 weeks  | HTML, CSS, JavaScript, JSON, Netlify and Contentful
 
-[Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/)
+
 
 <a name="education-id"></a>
 ## Education
