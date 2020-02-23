@@ -51,7 +51,7 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 
 #### *Makers Academy (Oct 2019 to Feb 2020)*
 
-Study at Makers bootcamp for 16 weeks
+Study at Makers Academy for 16 weeks bootcamp
 
 * Object Oriented Programming
 * Test Driven Development
