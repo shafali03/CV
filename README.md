@@ -6,12 +6,11 @@
 
 <div align="center">
  
+ [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id)
 
-# <a name="some-id"></a> DETAIL SECTION
 
 </div>
 
- [Skills](#skill-id) | [Projects](#project-id) | [Education](#education-id)| [Experience](#experience-id)
 
 
 I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer as healthcare was lacking from these technologies. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
@@ -44,7 +43,7 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 | [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
 | [Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)      | Created a shopping cart add products, increase and decrease the quantity of the product once products added to the shopping cart      |  2 weeks  | HTML, CSS, JavaScript, JSON, Netlify and Contentful
 
-
+[Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)
 
 
 ## Education
