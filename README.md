@@ -2,9 +2,19 @@
 
 ## Skills
 
-Attention to details
+### Attention to details
 
 During my extensive career within the pharmaceutical industry, I have developed a strong attention to detail. For example, as a pharmacy accredited technician, I completed a course at Royal Berkshire Hospital, checking 1000 medicines without errors. Once I completed the course, I was able to conduct the final checks to verify the prescription is dispensed correctly. I believe this is a focal skill that is necessary as a software engineer to help identify errors and provide a solution to fix the bug.
+
+
+### Team player
+
+While working at the hospital, I worked well as a team and supporting my colleagues whenever they needed help. When working as a team increase our productivity, we were able to accomplish our task sooner
+and also reduce mistakes. Whenever I worked in groups, I always give other team members a chance to talk and show respect for what others have to say, so everyone feels comfortable.
+
+### Communication 
+
+I 
 
 ## Projects
 
