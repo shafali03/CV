@@ -27,8 +27,7 @@ During my extensive career within the pharmaceutical industry, I have developed 
 
 ### Team player
 
-While working at the hospital, I worked well as a team and supporting my colleagues whenever they needed help. When working as a team increase our productivity, we were able to accomplish our task sooner
-and also reduce mistakes. Whenever I worked in groups, I always give other team members a chance to talk and show respect for what others have to say, so everyone feels comfortable.
+
 
 <a name="project-id"></a>
 ## Projects
@@ -38,6 +37,7 @@ and also reduce mistakes. Whenever I worked in groups, I always give other team 
 
 | Projects       | Description    | Timeframe|Technology  |Test Suites, CI/CD |
 | :-------------: | :-------------: | :-----:| :------------------: | :-------------------:|
+| [Recispeak](https://github.com/shafali03/Recispeak) | We created Android app that uses voice recognition, allows users to list foods and see a list of recipes based on their ingredients. | 2 Weeks | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
 | [Acebook](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A user can sign up and post a message each other walls    |2 weeks| Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
 | [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
 | [Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)      | Created a shopping cart add products, increase and decrease the quantity of the product once products added to the shopping cart      |  2 weeks  | HTML, CSS, JavaScript, JSON, Netlify and Contentful
