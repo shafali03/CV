@@ -12,7 +12,7 @@
 
 
 
-I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer as healthcare was lacking from these technologies. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
+I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer. I was able to identify what technology the NHS was lacking. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
 
 Overall, I am passionate about embarking on a career in the IT industry and would like to pursue my passion as a software engineer. I am continually learning new skills and updating my portfolio. It helps to
 demonstrate my enthusiasm and passion for web development, and I am eager to build the foundations for a lifelong career as a software engineer. 
