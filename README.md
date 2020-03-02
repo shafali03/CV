@@ -27,6 +27,7 @@ During my extensive career within the pharmaceutical industry, I have developed 
 
 ### Team player
 
+While working at the hospital, I worked well in teams and supporting my colleagues whenever they needed help. Working in teams increased our productivity. We can accomplish our task sooner than later and reduce mistakes. Working in teams allow me to share new ideas and create more effective solutions. 
 
 
 <a name="project-id"></a>
