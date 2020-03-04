@@ -100,3 +100,9 @@ Study at Makers Academy for 16 weeks bootcamp
 * Communicate with Clinicians regarding medications stock and MHRA alerts.
 *	Dispense Controlled Drugs and keeping accurate records
 *	Dispense Clinical Trial and keeping accurate records
+
+
+## Hobbies
+
+I enjoy designing and developing websites and adding new features. 
+When I have spare time at home I also like baking cakes.
