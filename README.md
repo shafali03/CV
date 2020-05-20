@@ -46,13 +46,19 @@ While working at the hospital, I worked well in teams and supporting my colleag
 
 
 
+## Skills
+
+* React
+* React-router
+* Strapi
+* Cloudinary
+* Stripe
+* HTML
+* CSS
+
 
 <a name="education-id"></a>
 ## Education
-
-
-
-
 
 #### *Makers Academy (Oct 2019 to Feb 2020)*
 
@@ -61,8 +67,10 @@ Study at Makers Academy for 16 weeks bootcamp
 * Object Oriented Programming
 * Test Driven Development
 * Ruby, RSpec, Rails
-* JavaScript, Jasmine, React
+* JavaScript, Jasmine, 
+* React
 * PostgreSQL
+* CI/ CD
 * Agile
 
 
