@@ -41,12 +41,16 @@ While working at the hospital, I worked well in teams and supporting my colleag
 | [Recispeak](https://github.com/shafali03/Recispeak) | We created Android app that uses voice recognition, allows users to list foods and see a list of recipes based on their ingredients. | 2 Weeks | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
 | [Acebook](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A user can sign up and post a message each other walls    |2 weeks| Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
 | [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
-| [Shopping cart](https://holiday-comfort-vanilla-js-shopping-cart.netlify.com/)      | Created a shopping cart add products, increase and decrease the quantity of the product once products added to the shopping cart      |  2 weeks  | HTML, CSS, JavaScript, JSON, Netlify and Contentful
+| [E-Commence](https://github.com/shafali03/cake-house)      | Creating online Cake house store site using Cloudinary to automate images. Using strapi headless CMS  to manage my contents   |  Ongoing  | React, CSS, Cloudinary, JSON, Strapi CMS
+
+
 
 
 
 <a name="education-id"></a>
 ## Education
+
+
 
 
 
