@@ -70,7 +70,8 @@ Study at Makers Academy for 16 weeks bootcamp
 * JavaScript, Jasmine, 
 * React
 * PostgreSQL
-* CI/ CD
+* CI / CD
+* Heroku
 * Agile
 
 
