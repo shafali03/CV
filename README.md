@@ -64,13 +64,14 @@ Study at Makers Academy for 16 weeks bootcamp
 
 * Object Oriented Programming
 * Test Driven Development
-* Ruby, RSpec, Rails
-* JavaScript, Jasmine, 
+* Ruby, Rails, Sinatra
+* JavaScript, Jasmine, Jest
 * React
 * PostgreSQL
-* CI / CD
+* Build tooling, CI/CD, Travis
+* TDD, BDD, DDD
 * Heroku
-* Agile
+* Agile methodologies
 
 
 #### *Royal Berkshire Hospital*
