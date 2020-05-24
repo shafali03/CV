@@ -78,7 +78,7 @@ Study at Makers Academy for 16 weeks bootcamp
 *2015 to 2016*  -    Accredited Checking Technician
 
 #### *Lansdales Pharmacy*
- *2005 to 2007* - Pharmaceutical Science BTEC Level 3 Diploma in Pharmaceutical Science Apprenticeship
+ *2005 to 2007* - Pharmaceutical Science BTEC Level 3 Diploma
 
 
 <a name="experience-id"></a>
