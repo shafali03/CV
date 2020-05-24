@@ -11,11 +11,9 @@
 </div>
 
 
+I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. 
+In the past, I've worked in the pharmaceutical industry. While working in healthcare, I discovered endless opportunities that can be used with programming to transform and improve patients lives after discovery AI technology in hospitals. I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
 
-I'm a full-stack developer who recently graduated from Makers. My background pharmacy, I worked in communities and hospitals pharmacy. I decided to change my profession to become a full-stack developer. I was able to identify what technology the NHS was lacking. Speaking to senior staff and suggesting innovative, new ideas, I received positive feedback from my colleagues. One day I like to bring my ideas to life. 
-
-Overall, I am passionate about embarking on a career in the IT industry and would like to pursue my passion as a software engineer. I am continually learning new skills and updating my portfolio. It helps to
-demonstrate my enthusiasm and passion for web development, and I am eager to build the foundations for a lifelong career as a software engineer. 
 
 <a name="skill-id"></a>
 ## Skills
