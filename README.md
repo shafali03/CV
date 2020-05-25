@@ -108,5 +108,4 @@ Study at Makers Academy for 16 weeks bootcamp
 
 ## Hobbies
 
-I enjoy designing and developing websites and adding new features. 
-When I have spare time at home I also like baking cakes.
+I enjoy designing and developing websites and adding new features. In my spare time I like baking sweet dishes.
