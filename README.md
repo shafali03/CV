@@ -25,8 +25,8 @@ During my extensive career within the pharmaceutical industry, I have developed 
 
 ### Team player
 
-While working at the hospital, I worked well in teams and supporting my colleagues whenever they needed help. Working in teams increased our productivity. We can accomplish our task sooner than later and reduce mistakes. Working in teams allow me to share new ideas and create more effective solutions. 
 
+While working at Makers, I've worked with people from all diversity of backgrounds for our team projects. I love working in teams showing my creativity and brainstorming ideas as a group. Putting my trust in my cohort allows ideas to emerge because it provides a feeling of safety. In our group projects communication was our key for creating solutions to our projects
 
 <a name="project-id"></a>
 ## Projects
