@@ -11,8 +11,10 @@
 </div>
 
 
-I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. 
-In the past, I've worked in the pharmaceutical industry. While working in healthcare, I discovered endless opportunities that can be used with programming to transform and improve patients lives after discovery AI technology in hospitals. I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
+I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management in regards to how drugs could be distributed ward to ward, which has a potential saving of up to £25,000 a month received positive feedback for my innovative.
+  
+
+ I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
 
 
 <a name="skill-id"></a>
