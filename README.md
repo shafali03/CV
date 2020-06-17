@@ -6,7 +6,7 @@
 
 <div align="center">
  
- [Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/) | [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id) | [Blog](https://medium.com/@shaf01sm/career-change-98cca25bf921)
+ [Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/) | [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id) | [Blog](https://medium.com/@shaf01sm/career-change-98cca25bf921) | [Website](https://www.shafsm.com/)
 
 </div>
 
