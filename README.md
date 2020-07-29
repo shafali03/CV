@@ -88,12 +88,12 @@ Study at Makers Academy for 16 weeks bootcamp
 **Thara Accountants** (February - 2018 – April 2018)    
 *Front End developer	(Contract part-time)*  
 
-* Identify the goals for the website.
-*	Designed, implemented and monitored web pages and sites for continuous improvement.
-* Increase SEO ranking on Google search which led to increase of traffic to website.
-*	Improve website performance for mobile view up to 93% by optimising images and reducing file size.
-*	Cross browser testing
-*	Upload site to live server
+* Configured a simple mail transfer protocol led to an 80% increase of emails from clients.
+*	Increased SEO ranking on Google page 2, which led to an increase of 60% traffic to the website.
+* Improved website performance for the mobile view up to 93% by optimising images and reducing file size.
+*	I collaborated with the stakeholder to agree with project and customer expectations targets.
+*	I created a responsive design for mobile and desktop view.
+
 
 **Royal Berkshire NHS Foundation Trust** (Dec 2012 – Jan 2018)
 *Pharmacy Technician*
