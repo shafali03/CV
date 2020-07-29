@@ -11,7 +11,10 @@
 </div>
 
 
-I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management in regards to how drugs could be distributed ward to ward, which has a potential saving of up to £25,000 a month received positive feedback for my innovative.
+I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management about how unused medicines can effectively distribute from one ward to another, which has the potential of saving up to £20,000 a month, and I received positive feedback for my innovative thinking and my initiative.
+
+
+
   
 
  I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
@@ -22,7 +25,7 @@ I'm Shafique a front end developer based in High Wycombe, and I love creating fu
 
 ### Attention to details
 
-During my extensive career within the pharmaceutical industry, I've developed a strong attention to detail. For example, as a pharmacy accredited technician, I've completed a course at Royal Berkshire Hospital, checking 1000 medicines and checking for errors on prescriptions paying attention to details. After completing the course, I'm able to conduct the final checks to verify the orders dispensed correctly. I believe this is a focal skill that is necessary as a software engineer ability to think through about the impact each code change has on the program paying attention to each character of code. One wrong character could stop the program from running and lead to bugs.
+During my extensive career within the pharmaceutical industry, I've developed a strong attention to detail. For example, as a pharmacy accredited technician, I've completed a course at Royal Berkshire Hospital, checking 1000 medicines and checking for errors on prescriptions paying attention to details. After completing the course, I was able to conduct the final checks to verify the prescription dispensed correctly. I believe this is a focal skill that is necessary as a software engineer ability to think through about the impact each code change has on the program paying attention to each character of code. One wrong character could stop the program from running and lead to bugs.
 
 ### Team player
 
@@ -80,6 +83,7 @@ Study at Makers Academy for 16 weeks bootcamp
 #### *Lansdales Pharmacy*
  *2005 to 2007* - Pharmaceutical Science BTEC Level 3 Diploma
 
+<br>
 
 <a name="experience-id"></a>
 ## Experience
@@ -98,11 +102,13 @@ Study at Makers Academy for 16 weeks bootcamp
 
 *	I created a responsive design for mobile and desktop view.
 
+<br>
 
-**Royal Berkshire NHS Foundation Trust** (Dec 2012 – Jan 2018)
+**Royal Berkshire NHS Foundation Trust** (Dec 2012 – Jan 2018) <br>
 *Pharmacy Technician* 
 <br>
-**Lansdales Pharmacy** (Sep 2005 - Dec 2012) Senior Technician 
+**Lansdales Pharmacy** (Sep 2005 - Dec 2012) <br>
+Senior Technician 
 
 * Inspire to save £20,000 a month on medicines by supplying medicines effectively from one ward to another.
 
@@ -121,4 +127,4 @@ Study at Makers Academy for 16 weeks bootcamp
 
 ## Hobbies
 
-I enjoy designing and creating websites and adding new features. In my spare time I like baking sweet dishes.
+I have recently started Hiking first thing in the morning. Walking through nature and breathing clean air helps me focus for the rest of the day.
