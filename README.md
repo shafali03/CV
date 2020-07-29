@@ -100,18 +100,25 @@ Study at Makers Academy for 16 weeks bootcamp
 
 
 **Royal Berkshire NHS Foundation Trust** (Dec 2012 – Jan 2018)
-*Pharmacy Technician*
+*Pharmacy Technician* 
+<br>
+**Lansdales Pharmacy** (Sep 2005 - Dec 2012) Senior Technician 
 
-* Investigate stock discrepancies.
-* Answer queries from ward staff.
-* Cost saving on drugs returned from wards.
-* Working with senior management to priorities business needs.
-* Implementing ideas with the approval of management to reduce workload and improve services.
+* Inspire to save £20,000 a month on medicines by supplying medicines effectively from one ward to another.
+
+* Managed a team of five worked efficiently maintained excellent communication between colleagues.
+
+* Guided and trained five junior team members on how to use the proscript system.
+
+* Build positive working relationships on a personal level with ten team members.
+
+* Used interpersonal skills to communicated with three senior  managers on a range of technical topics and found ways to resolve complex issues.
+
 * Communicate with Clinicians regarding medications stock and MHRA alerts.
-*	Dispense Controlled Drugs and keeping accurate records
-*	Dispense Clinical Trial and keeping accurate records
+
+* Restructured a process saved 15 hours a month by simplifying the process.
 
 
 ## Hobbies
 
-I enjoy designing and developing websites and adding new features. In my spare time I like baking sweet dishes.
+I enjoy designing and creating websites and adding new features. In my spare time I like baking sweet dishes.
