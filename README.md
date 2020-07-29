@@ -89,9 +89,13 @@ Study at Makers Academy for 16 weeks bootcamp
 *Front End developer	(Contract part-time)*  
 
 * Configured a simple mail transfer protocol led to an 80% increase of emails from clients.
+
 *	Increased SEO ranking on Google page 2, which led to an increase of 60% traffic to the website.
+
 * Improved website performance for the mobile view up to 93% by optimising images and reducing file size.
+
 *	I collaborated with the stakeholder to agree with project and customer expectations targets.
+
 *	I created a responsive design for mobile and desktop view.
 
 
