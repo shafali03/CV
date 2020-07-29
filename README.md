@@ -45,8 +45,6 @@ While working at Makers, I've worked with people from all diversity of backgroun
 | [E-Commence](https://github.com/shafali03/cake-house)      | Creating online Cake house store site using Cloudinary to automate images. Using strapi headless CMS  to manage my contents   |  Ongoing  | React, CSS, Cloudinary, JSON, Strapi CMS
 
 
-
-
 ## Skills
 
 * React
@@ -83,7 +81,6 @@ Study at Makers Academy for 16 weeks bootcamp
 #### *Lansdales Pharmacy*
  *2005 to 2007* - Pharmaceutical Science BTEC Level 3 Diploma
 
-<br>
 
 <a name="experience-id"></a>
 ## Experience
@@ -102,7 +99,6 @@ Study at Makers Academy for 16 weeks bootcamp
 
 *	I created a responsive design for mobile and desktop view.
 
-<br>
 
 **Royal Berkshire NHS Foundation Trust** (Dec 2012 – Jan 2018) <br>
 *Pharmacy Technician* 
