@@ -14,7 +14,7 @@
 I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management about how unused medicines can effectively distribute from one ward to another, which has the potential of saving up to £20,000 a month, and I received positive feedback for my innovative thinking and my initiative.
 
 
-I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
+I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects to work as front end developer.
 
 
 <a name="skill-id"></a>
@@ -22,10 +22,10 @@ I was obsessed with coding when I created my first website using HTML, CSS and J
 
 ### Attention to details
 
-During my extensive career within the pharmaceutical industry, I've developed a strong attention to detail. For example, as a pharmacy accredited technician, I've completed a course at Royal Berkshire Hospital, checking 1000 medicines and checking for errors on prescriptions paying attention to details. After completing the course, I was able to conduct the final checks to verify the prescription dispensed correctly. I believe this is a focal skill that is necessary as a software engineer ability to think through about the impact each code change has on the program paying attention to each character of code. One wrong character could stop the program from running and lead to bugs.
+During my extensive career within the pharmaceutical industry, I've developed a strong attention to detail. I was responsible for checking the prescription at the final stage. As a pharmacy accredited technician, I've completed a course at Royal Berkshire Hospital, checking 1000 medicines for accuracy and identifying errors on the prescriptions paying extra attention to details. After completing the course, I was able to conduct the final checks to verify the medicines are dispensed correctly and delivering quality products. I believe this is a focal skill that is necessary as a software engineer ability to think through about the impact each code change has on the program paying attention to each character of code. One wrong aspect could stop the program from running and lead to bugs.
+
 
 ### Team player
-
 
 While working at Makers, I've worked with people from all diversity of backgrounds for our team projects. I love working in teams showing my creativity and brainstorming ideas as a group. Putting my trust in my cohort allows ideas to emerge because it provides a feeling of safety. In our group projects communication was our key for creating solutions to our projects
 
