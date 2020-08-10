@@ -6,7 +6,7 @@
 
 <div align="center">
  
- [Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/) | [Skills](#skill-id)  | [Projects](#project-id)  | [Education](#education-id) | [Experience](#experience-id) | [Blog](https://medium.com/@shaf01sm/career-change-98cca25bf921) | [Website](https://www.shafsm.com/)
+ [Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/) | [Projects](#project-id) | [Skills](#skill-id)  | [Education](#education-id) | [Experience](#experience-id) | [Blog](https://medium.com/@shaf01sm/career-change-98cca25bf921) | [Website](https://www.shafsm.com/)
 
 </div>
 
@@ -15,6 +15,18 @@ I'm Shafique a front end developer based in High Wycombe, and I love creating fu
 
 
 I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects to work as front end developer.
+
+
+<a name="project-id"></a>
+## Projects
+
+| Projects       | Description    | Technology  |Test Suites, CI/CD |
+| :-------------: | :-------------: | :------------------: | :-------------------:|
+|Recispeak [Code](https://github.com/shafali03/Recispeak) | An Android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those ingredients. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
+| Acebook [code](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A full-stack web application where you can authenticate, create, edit, delete and comment post.  | Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
+|Click counter [code](https://github.com/shafali03/click-counter-react) | A click counter allows user to click the button to increment and decrement the number, displays a message when trying to decrement the number below zero. |React, CSS|          Jest, Enzymes         |
+| E-Commence [code](https://github.com/shafali03/cake-house)      | A headless CMS eCommerce where you can authenticate edit, delete the items. The site which allows users to select cakes and add items to cart. User can also increase or decrease the quantity of the items. Before the user makes a purchase   | React, CSS, Cloudinary, JSON, Strapi CMS, Stripe
+
 
 
 <a name="skill-id"></a>
@@ -28,21 +40,6 @@ During my extensive career within the pharmaceutical industry, I've developed a 
 ### Team player
 
 While working at Makers, I've worked with people from all diversity of backgrounds for our team projects. I love working in teams showing my creativity and brainstorming ideas as a group. Putting my trust in my cohort allows ideas to emerge because it provides a feeling of safety. In our group projects communication was our key for creating solutions to our projects
-
-<a name="project-id"></a>
-## Projects
-
-
-
-| Projects       | Description    | Technology  |Test Suites, CI/CD |
-| :-------------: | :-------------: | :------------------: | :-------------------:|
-|Recispeak [Code](https://github.com/shafali03/Recispeak) | An Android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those ingredients. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
-| Acebook [code](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A full-stack web application where you can authenticate, create, edit, delete and comment post.  | Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
-|Click counter [code](https://github.com/shafali03/click-counter-react) | A click counter allows user to click the button to increment and decrement the number, displays a message when trying to decrement the number below zero. |React, CSS|          Jest, Enzymes         |
-| E-Commence [code](https://github.com/shafali03/cake-house)      | A headless CMS eCommerce where you can authenticate edit, delete the items. The site which allows users to select cakes and add items to cart. User can also increase or decrease the quantity of the items. Before the user makes a purchase   | React, CSS, Cloudinary, JSON, Strapi CMS, Stripe
-
-
-## Skills
 
 * React
 * React-router
