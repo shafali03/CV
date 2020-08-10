@@ -100,7 +100,7 @@ Study at Makers Academy for 16 weeks bootcamp
 **Lansdales Pharmacy** (Sep 2005 - Dec 2012) <br>
 Senior Technician 
 
-* Inspire to save £20,000 a month on medicines by supplying medicines effectively from one ward to another.
+* Inspired to save £20,000 a month on medicines by supplying medicines effectively from one ward to another.
 
 * Managed a team of five worked efficiently maintained excellent communication between colleagues.
 
