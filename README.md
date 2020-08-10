@@ -14,10 +14,7 @@
 I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management about how unused medicines can effectively distribute from one ward to another, which has the potential of saving up to £20,000 a month, and I received positive feedback for my innovative thinking and my initiative.
 
 
-
-  
-
- I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
+I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects working as front end developer.
 
 
 <a name="skill-id"></a>
@@ -37,12 +34,12 @@ While working at Makers, I've worked with people from all diversity of backgroun
 
 
 
-| Projects       | Description    | Timeframe|Technology  |Test Suites, CI/CD |
-| :-------------: | :-------------: | :-----:| :------------------: | :-------------------:|
-| [Recispeak](https://github.com/shafali03/Recispeak) | We created Android app that uses voice recognition, allows users to list foods and see a list of recipes based on their ingredients. | 2 Weeks | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
-| [Acebook](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A user can sign up and post a message each other walls    |2 weeks| Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
-| [Oystercard](https://github.com/shafali03/oystercard) | Weekly challenge paired programming creating oystercard logic | 1 week | Ruby |           RSpec         |
-| [E-Commence](https://github.com/shafali03/cake-house)      | Creating online Cake house store site using Cloudinary to automate images. Using strapi headless CMS  to manage my contents   |  Ongoing  | React, CSS, Cloudinary, JSON, Strapi CMS
+| Projects       | Description    | Technology  |Test Suites, CI/CD |
+| :-------------: | :-------------: | :------------------: | :-------------------:|
+|Recispeak [Code](https://github.com/shafali03/Recispeak) | An Android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those ingredients. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
+| Acebook [code](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A full-stack web application where you can authenticate, create, edit, delete and comment post.  | Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
+|Click counter [code](https://github.com/shafali03/click-counter-react) | A click counter allows user to click the button to increment and decrement the number, displays a message when trying to decrement the number below zero. |React, CSS|          Jest, Enzymes         |
+| E-Commence [code](https://github.com/shafali03/cake-house)      | A headless CMS eCommerce where you can authenticate edit, delete the items. The site which allows users to select cakes and add items to cart. User can also increase or decrease the quantity of the items. Before the user makes a purchase   | React, CSS, Cloudinary, JSON, Strapi CMS, Stripe
 
 
 ## Skills
