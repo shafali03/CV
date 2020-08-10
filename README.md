@@ -95,7 +95,7 @@ Study at Makers Academy for 16 weeks bootcamp
 
 
 **Royal Berkshire NHS Foundation Trust** (Dec 2012 – Jan 2018) <br>
-*Pharmacy Technician* 
+*pharmacy Accredited Technician* 
 <br>
 **Lansdales Pharmacy** (Sep 2005 - Dec 2012) <br>
 Senior Technician 
