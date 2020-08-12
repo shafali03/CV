@@ -87,7 +87,7 @@ Study at Makers Academy for 16 weeks bootcamp
 
 *	Increased SEO ranking on Google page 2, which led to an increase of 60% traffic to the website.
 
-* Improved website performance for the mobile view up to 93% by optimising images and reducing file size.
+* Improved website performance for the mobile view up to 93% by optimised images and reduced the file sizes.
 
 *	I collaborated with the stakeholder to agree with project and customer expectations targets.
 
@@ -111,7 +111,7 @@ Senior Technician
 
 * Restructured a process saved 15 hours a month by simplifying the process.
 
-* Answer queries from the ward staff
+* Answer queries from the ward staff.
 
 * Cost-saving on drugs returned from the wards.
 
