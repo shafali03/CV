@@ -21,11 +21,11 @@ I was obsessed with coding when I created my first website using HTML, CSS and J
 ## Projects
 
 | Projects       | Description    | Technology  |Test Suites, CI/CD |
-| :-------------: | :-------------: | :------------------: | :-------------------:|
-|Recispeak [Code](https://github.com/shafali03/Recispeak) | An Android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those ingredients. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
+| :-------------: | :-----------: | :------------------: | :-------------------:|
+|Recispeak [Code](https://github.com/shafali03/Recispeak) | An android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those voice recognition ingredients. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
 | Acebook [code](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A full-stack web application where you can authenticate, create, edit, delete and comment post.  | Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
 |Click counter [code](https://github.com/shafali03/click-counter-react) | A click counter allows user to click the button to increment and decrement the number, displays a message when trying to decrement the number below zero. |React, CSS|          Jest, Enzymes         |
-| E-Commence [code](https://github.com/shafali03/cake-house)      | A headless CMS eCommerce where you can authenticate edit, delete the items. The site which allows users to select cakes and add items to cart. User can also increase or decrease the quantity of the items. Before the user makes a purchase   | React, CSS, Cloudinary, JSON, Strapi CMS, Stripe
+| E-Commence [code](https://github.com/shafali03/cake-house)      | An eCommerce where a user can register, edit and delete the items, the site allows user to select items and add items to cart. The user can increase or decrease the quantity of the items. The user needs to register and log in before making a purchase.| React, CSS, Cloudinary, JSON, Strapi CMS, Stripe.
 
 
 
@@ -111,8 +111,13 @@ Senior Technician
 
 * Restructured a process saved 15 hours a month by simplifying the process.
 
+* Answer queries from the ward staff
 
+* Cost-saving on drugs returned from the wards.
 
+* I would undertake aseptic preparation which includes making chemotherapy IV drugs for cancer patients.
+
+* Prepared raw materials for the development of chemotherapy drugs according to the worksheet approved by senior pharmacists.
 
 ## Hobbies
 
