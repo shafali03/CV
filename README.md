@@ -1,20 +1,21 @@
 
+
 <div align="center">
   <h1>Shafique Mohammed</h1>
 
 </div>
 
 <div align="center">
- 
+
  [Linkedin](https://www.linkedin.com/in/shafique-mohammed-b65856101/) | [Projects](#project-id) | [Skills](#skill-id)  | [Education](#education-id) | [Experience](#experience-id) | [Blog](https://medium.com/@shaf01sm/career-change-98cca25bf921) | [Portfolio](https://www.shafsm.com/)
 
 </div>
 
 
-I'm Shafique a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast website. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management about how unused medicines can effectively distribute from one ward to another, which has the potential of saving up to £20,000 a month, and I received positive feedback for my innovative thinking and my initiative.
+I'm Shafique, a front end developer based in High Wycombe, and I love creating fun, innovative, accessible and fast websites. In the past, I've worked in the pharmaceutical industry. While working in healthcare, I have discovered numerous opportunities which can provide an active service for the NHS by utilising technology. I have spoken to senior management about how unused medicines can effectively distribute from one ward to another, which has the potential of saving up to £20,000 a month, and I received positive feedback for my innovative thinking and my initiative.
 
 
-I was obsessed with coding when I created my first website using HTML, CSS and JavaScript since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer worked as a freelancer before joining Makers. A highly motivated person who has an immense will to learn I'm looking for challenging projects to work as front end developer.
+I was obsessed with coding when I created my first website using HTML, CSS and JavaScript, and since then I've fallen in love with coding and never looked back. I'm an enthusiastic front end developer and I worked as a freelancer before joining Makers. I'm a highly motivated person who has an immense will to learn, and I'm looking for challenging projects to work on as a front end developer.
 
 
 <a name="project-id"></a>
@@ -22,25 +23,26 @@ I was obsessed with coding when I created my first website using HTML, CSS and J
 
 | Projects       | Description    | Technology  |Test Suites, CI/CD |
 | :-------------: | :-----------: | :------------------: | :-------------------:|
-|Recispeak [Code](https://github.com/shafali03/Recispeak) | An android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those voice recognition ingredients. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API
-| Acebook [code](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A full-stack web application where you can authenticate, create, edit, delete and comment post.  | Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
-|Click counter [code](https://github.com/shafali03/click-counter-react) | A click counter allows user to click the button to increment and decrement the number, displays a message when trying to decrement the number below zero. |React, CSS|          Jest, Enzymes         |
-| E-Commence [code](https://github.com/shafali03/cake-house)      | An eCommerce where a user can register, edit and delete the items, the site allows user to select items and add items to cart. The user can increase or decrease the quantity of the items. The user needs to register and log in before making a purchase.| React, CSS, Cloudinary, JSON, Strapi CMS, Stripe.
+|Recispeak [Code](https://github.com/shafali03/Recispeak) | An android app that uses voice recognition, allowing the user to list the foods in their kitchen and see a list of recipes based on those ingredients, using voice recognition. | React Native, React Native Voice | Jest, Enzyme, Code Climate, Rapid API, Spoonacular API |
+| Acebook [code](https://github.com/denriquem/acebook--TeamFavouriteFriendLove- )|  A full-stack web application where you can authenticate, create, edit, delete and comment posts.  | Ruby on Rails, Clearance gem|RSpec, Rubocop, SimpleCov, Travis |
+|Click counter [code](https://github.com/shafali03/click-counter-react) | A click counter that allows users to click the button to increment and decrement the number, and displays a message when trying to decrement the number below zero. |React, CSS|          Jest, Enzymes         |
+| E-Commence [code](https://github.com/shafali03/cake-house)      | An eCommerce website where the user can register, edit and delete the items. The site allows users to select items and add items to cart. The user can increase or decrease the quantity of the items. The user needs to register and log in before making a purchase.| React, CSS, Cloudinary, JSON, Strapi CMS, Stripe.
 
 
 
 <a name="skill-id"></a>
 ## Skills
 
-### Attention to details
+### Attention to detail
 
-During my extensive career within the pharmaceutical industry, I've developed a strong attention to detail. I was responsible for checking the prescription at the final stage. As a pharmacy accredited technician, I've completed a course at Royal Berkshire Hospital, checking 1000 medicines for accuracy and identifying errors on the prescriptions paying extra attention to details. After completing the course, I was able to conduct the final checks to verify the medicines are dispensed correctly and delivering quality products. I believe this is a focal skill that is necessary as a software engineer ability to think through about the impact each code change has on the program paying attention to each character of code. One wrong aspect could stop the program from running and lead to bugs.
+During my extensive career within the pharmaceutical industry, I've developed a strong attention to detail. I was responsible for checking the prescription at the final stage. As a pharmacy accredited technician, I've completed a course at Royal Berkshire Hospital, checking 1000 medicines for accuracy and identifying errors on the prescriptions, paying extra attention to details. After completing the course, I was able to conduct the final checks to verify that the medicines are dispensed correctly and to deliver quality products. I believe this is a focal skill that is necessary as a software engineer: the ability to think through about the impact each code change has on the program, paying attention to each character of code. One wrong aspect could stop the program from running and lead to bugs.
 
 
 ### Team player
 
-While working at Makers, I've worked with people from all diversity of backgrounds for our team projects. I love working in teams showing my creativity and brainstorming ideas as a group. Putting my trust in my cohort allows ideas to emerge because it provides a feeling of safety. In our group projects communication was our key for creating solutions to our projects
+While working at Makers, I've worked with people from a diversity of backgrounds for our team projects. I love working in teams, showing my creativity and brainstorming ideas as a group. Putting my trust in my cohort allows ideas to emerge because it provides a feeling of safety. In our group projects communication was key for creating solutions to our projects.
 
+## Technical skills
 * React
 * React-router
 * Strapi
@@ -55,7 +57,7 @@ While working at Makers, I've worked with people from all diversity of backgroun
 
 #### *Makers Academy (Oct 2019 to Feb 2020)*
 
-Study at Makers Academy for 16 weeks bootcamp
+I have studied at Makers Academy for 16 weeks of bootcamp.
 
 * Object Oriented Programming
 * Test Driven Development
@@ -83,39 +85,39 @@ Study at Makers Academy for 16 weeks bootcamp
 **Thara Accountants** (February - 2018 – April 2018)    
 *Front End developer	(Contract part-time)*  
 
-* Configured a simple mail transfer protocol led to an 80% increase of emails from clients.
+* Configured a simple mail transfer protocol which led to an 80% increase of emails from clients.
 
-*	Increased SEO ranking on Google page 2, which led to an increase of 60% traffic to the website.
+*	Increased SEO ranking on Google page 2, which led to an increase of traffic of 60% to the website.
 
-* Improved website performance for the mobile view up to 93% by optimised images and reduced the file sizes.
+* Improved website performance for the mobile view up to 93% by optimising images and reducing the file sizes.
 
-*	I collaborated with the stakeholder to agree with project and customer expectations targets.
+*	Collaborated with the stakeholder to agree with project and customer expectations targets.
 
-*	I created a responsive design for mobile and desktop view.
+*	Created a responsive design for mobile and desktop view.
 
 
-**Professional Experience - NHS** (Sep 2005 - Dec 2018) <br>
-Senior Technician 
+**NHS** (Sep 2005 - Dec 2018) <br>
+Senior Technician
 
 * Inspired to save £20,000 a month on medicines by supplying medicines effectively from one ward to another.
 
-* Managed a team of five worked efficiently maintained excellent communication between colleagues.
+* Managed a team of five, worked efficiently and maintained excellent communication between colleagues.
 
 * Guided and trained five junior team members on how to use the proScript pharmacy system.
 
-* Build positive working relationships on a personal level with ten team members.
+* Built positive working relationships on a personal level with ten team members.
 
 * Used interpersonal skills to communicate with three senior managers on a range of technical topics and found ways to resolve complex issues.
 
-* Communicate with Clinicians regarding medications stock and MHRA alerts.
+* Communicated with Clinicians regarding medications stock and MHRA alerts.
 
-* Restructured a process saved 15 hours a month by simplifying the process.
+* Restructured a process and saved 15 hours a month by simplifying it.
 
-* Answer queries from the ward staff.
+* Answered queries from the ward staff.
 
-* Cost-saving on drugs returned from the wards.
+* Saved costs on drugs returned from the wards.
 
-* I would undertake aseptic preparation which includes making chemotherapy IV drugs for cancer patients.
+* Undertook aseptic preparation which includes making chemotherapy IV drugs for cancer patients.
 
 * Prepared raw materials for the development of chemotherapy drugs according to the worksheet approved by senior pharmacists.
 
